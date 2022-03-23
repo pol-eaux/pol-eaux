@@ -1,4 +1,4 @@
-- Pol-eaux
+- Pol-eaux (Polo)
 - Undergrad @ University of Utah for Computer Science
 
 <!---
